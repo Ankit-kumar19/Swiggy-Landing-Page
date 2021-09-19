@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/css/main.7ade91e7.chunk.css",
+    "main.js": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/js/main.8cb070d1.chunk.js",
+    "main.js.map": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/js/main.8cb070d1.chunk.js.map",
+    "runtime-main.js": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/js/runtime-main.a5085241.js",
+    "runtime-main.js.map": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/js/runtime-main.a5085241.js.map",
+    "static/js/2.33c20fbf.chunk.js": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/js/2.33c20fbf.chunk.js",
+    "static/js/2.33c20fbf.chunk.js.map": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/js/2.33c20fbf.chunk.js.map",
+    "static/js/3.a86277a7.chunk.js": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/js/3.a86277a7.chunk.js",
+    "static/js/3.a86277a7.chunk.js.map": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/js/3.a86277a7.chunk.js.map",
+    "index.html": "/Ankit-kumar19/Swiggy-Landing-Page.git/index.html",
+    "static/css/main.7ade91e7.chunk.css.map": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/css/main.7ade91e7.chunk.css.map",
+    "static/js/2.33c20fbf.chunk.js.LICENSE.txt": "/Ankit-kumar19/Swiggy-Landing-Page.git/static/js/2.33c20fbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5085241.js",
+    "static/js/2.33c20fbf.chunk.js",
+    "static/css/main.7ade91e7.chunk.css",
+    "static/js/main.8cb070d1.chunk.js"
+  ]
+}
